@@ -10,3 +10,6 @@ __pycache__/
 .idea/
 .DS_Store
 *.log
+
+# Local PostgreSQL export (contains machine-specific ownership metadata)
+/bincom.sql
